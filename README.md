@@ -33,4 +33,4 @@ module "shared-vpc-service" {
 
 ## Licença
 
-Copyright © 2019 Mandic Cloud Solutions. Todos os direitos reservados.
+Copyright © 2019. Todos os direitos reservados.
